@@ -4,11 +4,11 @@
 
 ## Where words fail, music speaks
 
-![Contributors](https://img.shields.io/github/contributors/Buddhad/Word_Game)
-![Forks](https://img.shields.io/github/forks/Buddhad/Word_Game)
-![Stars](https://img.shields.io/github/stars/Buddhad/Word_Game)
-![Licence](https://img.shields.io/github/license/Buddhad/Word_Game)
-![Issues](https://img.shields.io/github/issues/Buddhad/Word_Game)
+![Contributors](https://img.shields.io/github/contributors/Buddhad/Memory_Card_Game)
+![Forks](https://img.shields.io/github/forks/Buddhad/Memory_Card_Game)
+![Stars](https://img.shields.io/github/stars/Buddhad/Memory_Card_Game)
+![Licence](https://img.shields.io/github/license/Buddhad/Memory_Card_Game)
+![Issues](https://img.shields.io/github/issues/Buddhad/Memory_Card_Game)
 
 ## What it does
 
