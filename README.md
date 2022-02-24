@@ -1,7 +1,8 @@
-# Words Game
+# Memory Card Game
+
 ## Fun is just another word for learning.
 
-## Where words fail, music speaks 
+## Where words fail, music speaks
 
 ![Contributors](https://img.shields.io/github/contributors/Buddhad/Word_Game)
 ![Forks](https://img.shields.io/github/forks/Buddhad/Word_Game)
@@ -38,7 +39,6 @@ After the word game, I will try to make a 2D platformer game.
 ![MainCards](https://cdn.discordapp.com/attachments/926055068271251467/946473998198374420/unknown.png)
 ![Winner](https://cdn.discordapp.com/attachments/926055068271251467/946473919714586674/unknown.png)
 ![Cards](https://cdn.discordapp.com/attachments/926055068271251467/946473572195508264/unknown.png)
-
 
 ## Authors
 
